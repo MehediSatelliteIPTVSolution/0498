@@ -118,11 +118,17 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/682
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ceKNpFn.png" group-title="KS",Ary Asia https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
 
+#EXTINF:-1 ,Star Jalsha Movies
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla",Jalsha Movies
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/203
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/667
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="Movies",HBO
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/124
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="Movies",Star Movies
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/151
@@ -225,6 +231,19 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/645
 
 #EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="https://logodix.com/logo/900709.png" group-title="Kids",Nick
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/201
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/148
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="KS",Nick Jr
+https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SyDM00x.png" group-title="KS",Nick Sonic
+https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="KS",Nick
+https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://projapoti.live/img/channels/gaan-bangla.jpg" group-title="Bangla",Gaan Bangla
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/121
