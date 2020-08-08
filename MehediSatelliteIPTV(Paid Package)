@@ -210,7 +210,7 @@ http://172.20.1.1:8081/live/romedynow/chunks.m3u8?nimblesessionid=40556080&wmsAu
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
-http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
+http://172.20.1.1:8081/live/mastimusic-65/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="MUSIC",Zoom
 http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
