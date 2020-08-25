@@ -184,6 +184,9 @@ http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES",Sony Max
 http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES",Sony Max
+http://103.77.252.58:8081/itvhd/sonymax/chunks.m3u8
+
 #EXTINF:-1 tvg-id="SonyMax(src07).in(m3u4u)" tvg-name="Sony Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI MOVIES",Sony Max HD
 
 
